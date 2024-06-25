@@ -32,7 +32,7 @@ GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 
-```
+
 # Finally run the following command
 streamlit run app.py
 ```
