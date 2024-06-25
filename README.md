@@ -44,7 +44,7 @@ Now,
 open up localhost:
 ```
 
-![alt text](https://github.com/p2kalita/Chat_with_PDFs/blob/main/Capture.JPG)?raw=true)
+![alt text](https://github.com/p2kalita/Chat_with_PDFs/blob/main/Capture.JPG)
 
 
 
